@@ -25,9 +25,9 @@ How to run the code.
 
 6. Type the following lines in the terminal
 
-	import problem3 as pr
-	ob = pr.sort('Input','out.txt')
-	ob.external_sort()
+		import problem3 as pr
+		ob = pr.sort('Input','out.txt')
+		ob.external_sort()
 
 7. Process 6. will take some time to sort the files in the given input directory.
 8. To rotate a sorted list type
