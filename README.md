@@ -11,7 +11,7 @@ How to run the code.
 
 2. Create a "largefile.txt" using the lfile.py module by typing 
 
-	python lfile.py
+		python lfile.py
 
 3. If one wishes to sort multiple files then run the above command multiple times
    by changing the output file name in lfile.py. It will create multiple files with 
