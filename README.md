@@ -32,13 +32,13 @@ How to run the code.
 7. Process 6. will take some time to sort the files in the given input directory.
 8. To rotate a sorted list type
 	
-	ob.rotate()
+		ob.rotate()
    
    Follow the steps asked by the function. The output response will be in a text file
    "rotate.txt" in the same folder where the problem3.py is present
 9. To get the minimum element in the sorted rotated file type the command
 
-	ob.find_min()
+		ob.find_min()
 
 Sample Run
 
